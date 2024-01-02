@@ -53,7 +53,15 @@ L'implémentation se trouve sur la branche template_1 du dépôt git.
 
 
 ### 2. Strategy
-
+C'est un patron qui permet d'adapter la façon de faire en fonction de la situation. Il le fait 
+en définissant un ensemble d'implémentations d'un concept spécifique. Les participants de son
+modèle générique sont : Le contexte qui est la classe définissant l'objet dont le comportement 
+doit être modifié dynamiquement. La strategy qui est l'interface ou la classe abstraite qui définit
+toutes les méthodes communes à tous les algorithmes pouvant être utilisés par l'objet de type Contexte.
+Les ConcreteStrategy qui implémentent les méthodes de la strategy.
 
 #### Strategy_1
+Il s'agit de l'implémentation de l'exemple du cours d'une application de sauvegarde d'images. 
+L'application doit compresser selon le format de l'image et appliquer des filtres. 
+L'implémentation se trouve sur la branche strategy_1 du dépôt git.
 
