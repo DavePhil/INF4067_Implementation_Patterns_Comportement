@@ -1,8 +1,6 @@
 # INF4067_Implementation_Patterns_Comportement
 Implémentation des modèles de comportement (Design patterns) en Java
 
-# INF4067_Implementation_Patterns_Comportements
-Implémentation des modèles de Comportements (Design patterns) en Java
 
 ## A savoir:
 Tous nos devoirs sont stockés sur le repository : https://github.com/DavePhil/INF4067_Implementation_Patterns_Comportements.
